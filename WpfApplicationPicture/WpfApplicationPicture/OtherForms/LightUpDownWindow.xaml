@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApplicationPicture.OtherForms.LightUpDownWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplicationPicture.OtherForms"
+        mc:Ignorable="d"
+        Title="LightUpDownWindow" Height="150" Width="300">
+    <Grid>
+        <Canvas>
+            <StackPanel Height="93" Width="292">
+                <Label x:Name="LabelLightUpDown" Content="Choose the range of light up or down image"/>
+                <Slider x:Name="SliderLightUpDown" Minimum="-255" Maximum="255" Value="0" Width="280" TickFrequency="1" Ticks="1" ValueChanged="SliderLightUpDown_ValueChanged"/>
+                <Label x:Name="ValueLabel" Content="0"></Label>
+                <Button x:Name="ConfirmButton" Content="Ok" Click="ConfirmButton_Click"/>
+            </StackPanel>
+        </Canvas>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+C:\Users\BartoszA\Documents\Visual Studio 2015\Projects\WpfApplicationPicture\WpfApplicationPicture\bin\Release\WpfApplicationPicture.exe.config
+C:\Users\BartoszA\Documents\Visual Studio 2015\Projects\WpfApplicationPicture\WpfApplicationPicture\bin\Release\WpfApplicationPicture.exe
+C:\Users\BartoszA\Documents\Visual Studio 2015\Projects\WpfApplicationPicture\WpfApplicationPicture\bin\Release\WpfApplicationPicture.pdb
+C:\Users\BartoszA\Documents\Visual Studio 2015\Projects\WpfApplicationPicture\WpfApplicationPicture\obj\Release\MainWindow.g.cs
+C:\Users\BartoszA\Documents\Visual Studio 2015\Projects\WpfApplicationPicture\WpfApplicationPicture\obj\Release\App.g.cs
+C:\Users\BartoszA\Documents\Visual Studio 2015\Projects\WpfApplicationPicture\WpfApplicationPicture\obj\Release\WpfApplicationPicture_MarkupCompile.cache
+C:\Users\BartoszA\Documents\Visual Studio 2015\Projects\WpfApplicationPicture\WpfApplicationPicture\obj\Release\WpfApplicationPicture_MarkupCompile.lref
+C:\Users\BartoszA\Documents\Visual Studio 2015\Projects\WpfApplicationPicture\WpfApplicationPicture\obj\Release\MainWindow.baml
+C:\Users\BartoszA\Documents\Visual Studio 2015\Projects\WpfApplicationPicture\WpfApplicationPicture\obj\Release\WpfApplicationPicture.g.resources
+C:\Users\BartoszA\Documents\Visual Studio 2015\Projects\WpfApplicationPicture\WpfApplicationPicture\obj\Release\WpfApplicationPicture.Properties.Resources.resources
+C:\Users\BartoszA\Documents\Visual Studio 2015\Projects\WpfApplicationPicture\WpfApplicationPicture\obj\Release\WpfApplicationPicture.csproj.GenerateResource.Cache
+C:\Users\BartoszA\Documents\Visual Studio 2015\Projects\WpfApplicationPicture\WpfApplicationPicture\obj\Release\WpfApplicationPicture.exe
+C:\Users\BartoszA\Documents\Visual Studio 2015\Projects\WpfApplicationPicture\WpfApplicationPicture\obj\Release\WpfApplicationPicture.pdb
+C:\Users\BartoszA\Documents\Visual Studio 2015\Projects\WpfApplicationPicture\WpfApplicationPicture\obj\Release\WpfApplicationPicture.csprojResolveAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfApplicationPicture.OtherForms.CustomFilterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplicationPicture.OtherForms"
+        mc:Ignorable="d"
+        Title="CustomFilterWindow" Height="300" Width="300">
+    <Grid>
+        <Canvas>
+            <StackPanel>
+                <Label x:Name="labelFilter" Content="Choose the filter"/>
+                <ComboBox x:Name="FilterComboBox" SelectionChanged="FilterComboBox_SelectionChanged" Width="284"  >
+                    <ComboBoxItem x:Name="MergeFilterComboBoxItem" Content="{Binding Path=mergeFilter}" ></ComboBoxItem>
+                    <ComboBoxItem x:Name="CustomFilterComboBoxItem" Content="{Binding Path=customFilter}"></ComboBoxItem>
+                    <ComboBoxItem x:Name="SharpFilterComboBoxItem" Content="{Binding Path=customFilter}"></ComboBoxItem>
+                </ComboBox>
+                <DockPanel>
+                    <DataGrid x:Name="FilterDataGrid" DockPanel.Dock="Bottom" IsSynchronizedWithCurrentItem="False" AutomationProperties.IsColumnHeader="True" IsEnabled="False" />
+                </DockPanel>
+                <Button x:Name="choseButton" Content="Chose the Filtr" Click="choseButton_Click"/>
+              </StackPanel>
+        </Canvas>
+    </Grid>
+</Window>
